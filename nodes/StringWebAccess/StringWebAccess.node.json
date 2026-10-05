@@ -1,0 +1,34 @@
+{
+	"node": "@usestring/n8n-nodes-web-access",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Development"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/usestring/n8n-nodes-web-access?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/usestring/n8n-nodes-web-access?tab=readme-ov-file"
+			}
+		]
+	},
+	"alias": [
+		"scrape",
+		"scraping",
+		"crawl",
+		"crawler",
+		"web search",
+		"search",
+		"fetch",
+		"url",
+		"markdown",
+		"sitemap",
+		"site map",
+		"web data",
+		"data extraction",
+		"llm"
+	]
+}

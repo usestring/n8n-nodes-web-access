@@ -1,0 +1,9 @@
+{
+	"name": "scan-community-package-runner",
+	"private": true,
+	"description": "Runs n8n's community package scanner against this repository before publishing",
+	"type": "module",
+	"dependencies": {
+		"@n8n/scan-community-package": "0.38.0"
+	}
+}
